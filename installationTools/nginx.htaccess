@@ -1,0 +1,2 @@
+rewrite ^/api$ /api.php last;
+rewrite "^/([0-9a-zA-Z]{4,4})$" /go.php?sign=$1 last;

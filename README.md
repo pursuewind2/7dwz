@@ -1,2 +1,49 @@
 # 7dwz
-â€œä¸ƒå¤©çŸ­ç½‘å€â€æ˜¯è½»é‡çš„çŸ­ç½‘å€å·¥å…·ï¼ŒçŸ­ç½‘å€7å¤©æœ‰æ•ˆï¼Œå¯é‡å¤åˆ©ç”¨ã€‚
+
+¡°ÆßÌì¶ÌÍøÖ·¡±ÊÇÇáÁ¿µÄ¶ÌÍøÖ·¹¤¾ß£¬¶ÌÍøÖ·7ÌìÓÐÐ§£¬¿ÉÖØ¸´ÀûÓÃ¡£
+
+# ÌØµã
+
+1.Ã¿¸öÉú³ÉµÄ¶ÌÍøÖ·½ö¾ßÓÐ7ÌìÓÐÐ§ÆÚ£¬7Ììºó×Ô¶¯É¾³ý£»
+
+2.¶ÌÍøÖ·¿ÉÖØ¸´ÀûÓÃ£¬¹ýÆÚµÄ¶ÌÍøÖ·½«¿ÉÄÜ±»ÖØ¸´Éú³ÉÊ¹ÓÃ£»
+
+3.Éú³ÉµÄsign½ö4Î»£¬½øÒ»²½Ëõ¼õÍøÖ·³¤¶È¡£
+
+
+# °²×°²½Öè
+
+1.ÉÏ´«Ô´Âëµ½·þÎñÆ÷£»
+
+2.µ¼ÈëÊý¾Ý¿â"installationTools/7dwz.sql"£»
+
+3.£¨¿ÉÑ¡£©·ÃÎÊ"installationTools/generateCharTable.php"µÃµ½ÐÂµÄËæ»ú×Ö·û±íÊý×é£¬Ìæ»»¡°7dwz.php¡±ÖÐ¡°$charTable¡±µÄÖµ£»
+
+4.ÐÞ¸Ä¡°7dwz.php¡±ÖÐ¡°$dbInfo¡±µÄ¶ÔÓ¦Êý¾Ý¿âµØÖ·£¨address£©¡¢ÓÃ»§Ãû£¨username£©¡¢ÃÜÂë£¨password£©¡¢Êý¾Ý¿âÃû£¨database£©£»
+
+5.ÐÞ¸Ä¡°7dwz.php¡±ÖÐ¡°$webUrl¡±ÖµÎªÄãµÄÍøÖ·£¬ÐÎÈç¡°https://www.baidu.com/¡±£»
+
+6.£¨NginxÓÃ»§£©ÊÖ¶¯Ìí¼ÓÎ±¾²Ì¬¹æÔò¡°installationTools/nginx.htaccess¡±£»
+
+7.Ìí¼Ó×Ô¶¯ÇåÀíÈÎÎñ£ºÃ¿ÌìÁè³¿0:00ÔËÐÐ¡°clear.php¡±¡£
+
+- ±¦ËþÃæ°å¿ÉÌí¼Ó¼Æ»®ÈÎÎñ£ºÈÎÎñÀàÐÍ¡°Shell½Å±¾¡±£¬ÈÎÎñÄÚÈÝ¡°php /www/wwwroot/7dwz.cc/clear.php¡±£¬ÆäÖÐµÄµØÖ·¸ÄÎªÄãµÄ¾ßÌå¾ø¶ÔµØÖ·¡£
+- Linux¿ÉÊ¹ÓÃ¡°Crontab¶¨Ê±ÈÎÎñ¡±£¬¾ßÌåÇë°Ù¶È¡£
+- Windows¿ÉÌí¼Ó¡°¼Æ»®ÈÎÎñ¡±£¬¾ßÌåÇë°Ù¶È¡£
+- Ò²¿ÉÒÔÔËÓÃÍøÕ¾¼à¿ØÆ½Ì¨£¬¼à¿Ø¡°clear.php¡±¶ÔÓ¦µÄÍøÖ·¡£
+
+
+# ÆäËûÍØÕ¹
+
+1.ÈôÒª¶ÌÍøÖ·ÓÀ¾ÃÓÐÐ§£¬ÔòºöÂÔ¡°°²×°²½Öè¡±µÚ7²½¼´¿É¡£
+
+2.ÈôÒªÀ©³äsignÎ»Êý£¬ÇëÐÞ¸ÄÊý¾Ý¿âÖÐµÄsignÊý¾ÝÀàÐÍ£¬ÒÔ¼°ÐÞ¸Ä¡°7dwz.php¡±ÖÐsignµÄÉú³ÉÓë½âÎöÂß¼­£¨²Î¿¼https://www.pursuewind.com/247.htmlÖÐÌáµ½µÄÉè¼ÆË¼Â·£©¡£
+
+
+# ÔÚÏßÑÝÊ¾
+
+http://7dwz.cc/
+
+# ×÷Õß
+
+https://www.pursuewind.com/

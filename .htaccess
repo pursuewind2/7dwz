@@ -1,0 +1,4 @@
+RewriteEngine On
+
+RewriteRule ^api$ api.php [L]
+RewriteRule ^([0-9a-zA-Z]{4,4})$ go.php?sign=$1 [L]
