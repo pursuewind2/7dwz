@@ -21,7 +21,7 @@
 
 4.修改“7dwz.php”中“$dbInfo”的对应数据库地址（address）、用户名（username）、密码（password）、数据库名（database）；
 
-5.修改“7dwz.php”中“$webUrl”值为你的网址，形如“https://www.baidu.com/”；
+5.修改“7dwz.php”中“$webUrl”值为你的网址，形如“[https://www.baidu.com/](https://www.baidu.com/ "https://www.baidu.com/")”；
 
 6.（Nginx用户）手动添加伪静态规则“installationTools/nginx.htaccess”；
 
@@ -37,7 +37,7 @@
 
 1.若要短网址永久有效，则忽略“安装步骤”第7步即可。
 
-2.若要扩充sign位数，请修改数据库中的sign数据类型，以及修改“7dwz.php”中sign的生成与解析逻辑（参考https://www.pursuewind.com/247.html中提到的设计思路）。
+2.若要扩充sign位数，请修改数据库中的sign数据类型，以及修改“7dwz.php”中sign的生成与解析逻辑（参考[https://www.pursuewind.com/247.html](https://www.pursuewind.com/247.html "参考网址")中提到的设计思路）。
 
 
 # 在线演示
